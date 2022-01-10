@@ -1,2 +1,2 @@
 # Specialization-ML-and-data-analysis
-Files from course
+Here are the solutions to tasks from the course and auxiliary notebooks
