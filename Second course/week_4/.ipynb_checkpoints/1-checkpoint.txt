@@ -1,0 +1,1 @@
+<built-in method mean of numpy.ndarray object at 0x7fdfd8b493a0>
